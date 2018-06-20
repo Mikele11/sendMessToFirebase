@@ -1,0 +1,18 @@
+{
+  "name": "firebase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikele",
+  "license": "ISC",
+  "dependencies": {
+    "fcm-node": "^1.2.1",
+    "fcm-push": "^1.1.3",
+    "firebase-admin": "^5.12.1",
+    "googleapis": "^32.0.0",
+    "util": "^0.11.0"
+  }
+}
